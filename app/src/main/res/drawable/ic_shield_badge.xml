@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Fortress/shield silhouette in emerald. Full color, unlike
+         ic_shield.xml which stays a plain white silhouette for
+         notification/status-bar use (the system forces those monochrome
+         regardless of the vector's own colors). -->
+    <path
+        android:fillColor="#12805B"
+        android:pathData="M12,1L3,5v6c0,5.55 3.84,10.74 9,12c5.16,-1.26 9,-6.45 9,-12V5L12,1zM12,11.99h7c-0.53,4.12 -3.28,7.79 -7,8.94V12H5V6.3l7,-3.11V11.99z" />
+    <!-- 8-pointed geometric star (rub el hizb motif) in gold. -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M12,7.05 L12.55,9.06 L14.37,8.03 L13.34,9.85 L15.35,10.4 L13.34,10.95 L14.37,12.77 L12.55,11.74 L12,13.75 L11.45,11.74 L9.63,12.77 L10.66,10.95 L8.65,10.4 L10.66,9.85 L9.63,8.03 L11.45,9.06 Z" />
+</vector>

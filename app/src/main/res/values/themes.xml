@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Shield.AppCompat" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/shield_accent</item>
+        <item name="colorAccent">@color/shield_gold</item>
+        <item name="android:windowBackground">@color/shield_overlay_bg</item>
+    </style>
+
+    <style name="Theme.Shield.Overlay" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/shield_accent</item>
+        <item name="colorAccent">@color/shield_gold</item>
+        <item name="android:windowBackground">@color/shield_overlay_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

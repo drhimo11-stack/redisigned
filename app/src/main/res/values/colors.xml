@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the Compose brand palette (ui/theme/Color.kt) so the
+         classic-View overlay screen looks like part of the same app. -->
+    <color name="shield_overlay_bg">#0A1712</color>
+    <color name="shield_overlay_text">#F3EDE0</color>
+    <color name="shield_overlay_subtext">#A9BBB0</color>
+    <color name="shield_accent">#12805B</color>
+    <color name="shield_accent_dim">#2612805B</color>
+    <color name="shield_gold">#D4AF37</color>
+    <color name="shield_card_bg">#13241C</color>
+    <color name="shield_card_border">#2E4B3C</color>
+    <color name="shield_button_disabled">#2E4B3C</color>
+    <color name="shield_button_disabled_text">#A9BBB0</color>
+</resources>

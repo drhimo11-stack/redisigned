@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fortress/shield silhouette in emerald, evoking "Hisn" (fortress). -->
+    <path
+        android:fillColor="#12805B"
+        android:pathData="M54,18L27,30v18c0,16.5 11.5,32 27,36c15.5,-4 27,-19.5 27,-36V30L54,18zM54,53.5h21c-1.6,12.4 -9.9,23.4 -21,26.8V54H33V33.9l21,-9.3V53.5z" />
+    <!-- 8-pointed geometric star (rub el hizb motif) in gold, centered. -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32 L56.49,40.99 L64.61,36.39 L60.01,44.51 L69,47 L60.01,49.49 L64.61,57.61 L56.49,53.01 L54,62 L51.51,53.01 L43.39,57.61 L47.99,49.49 L39,47 L47.99,44.51 L43.39,36.39 L51.51,40.99 Z" />
+</vector>

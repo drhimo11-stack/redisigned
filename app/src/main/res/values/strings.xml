@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حصن</string>
+    <string name="device_admin_explanation">Enabling Device Admin lets حصن prevent itself from being uninstalled while a lock is active.</string>
+    <string name="overlay_title">You are Protected</string>
+    <string name="overlay_label">حصن</string>
+    <string name="overlay_close">Close</string>
+    <string name="overlay_close_countdown">Close (%1$d)</string>
+    <string name="accessibility_service_description">حصن uses this service to read on-screen text in supported browsers and apps so it can detect and block matching content in real time. It does not send any data off your device.</string>
+</resources>
